@@ -1,0 +1,13 @@
+{
+  "name": "shopping-cart-api",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Afonso Praça",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "grunt": "latest",
+    "express": "~4.0.0"
+  }
+}
